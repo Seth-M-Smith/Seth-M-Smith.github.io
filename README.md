@@ -1,2 +1,2 @@
-# Seth-M-Smith.github.io
-V0,0
+# This is the readme document
+## It is found inside my github 
